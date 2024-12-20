@@ -1,5 +1,7 @@
-#formation HTML CSS
+# formation HTML CSS
 
 Chapitre 1
 Les balises :
-Balise texte `<p> </p>`
+Balise texte :
+
+`<p> </p>`
